@@ -1,0 +1,76 @@
+<?php include 'header.php'; ?>
+
+<section class="banner" style="background-image: url(img/banner.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="banner_content text-white">
+                    <h2> सूचना
+                    </h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div id="notice" class="padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 notice-main-div mx-auto">
+                <div class="notice_wrapp d-flex align-items-center mb-4">
+                    <div class="notice_date">
+                        <span class="date-month second_font"> २४ <span class="month second_font"> भदौ </span> </span>
+                    </div>
+                    <div class="notice_img_title d-flex align-items-center">
+                        <div class="notice-img mr-3">
+                            <img src="https://demo.ovatheme.com/egovt/wp-content/uploads/2020/08/1.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="notice_title">
+                            <h4>भेरोसिल खोप कार्यक्रम संचालन नहुने भएको ललितपुर महानगरपालिकाको सूचना</h4>
+                        </div>
+                        <div class="btn_white mt-3">
+                            <a href="notice-detail.php">थप हेर्नुहोस्</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="notice_wrapp d-flex align-items-center mb-4">
+                    <div class="notice_date">
+                        <span class="date-month second_font"> २४ <span class="month second_font"> भदौ </span> </span>
+                    </div>
+                    <div class="notice_img_title d-flex align-items-center">
+                        <div class="notice-img mr-3">
+                            <img src="https://demo.ovatheme.com/egovt/wp-content/uploads/2020/08/1.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="notice_title">
+                            <h4>भेरोसिल खोप कार्यक्रम संचालन नहुने भएको ललितपुर महानगरपालिकाको सूचना</h4>
+                        </div>
+                        <div class="btn_white mt-3">
+                            <a href="notice-detail.php">थप हेर्नुहोस्</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="notice_wrapp d-flex align-items-center">
+                    <div class="notice_date">
+                        <span class="date-month second_font"> २४ <span class="month second_font"> भदौ </span> </span>
+                    </div>
+                    <div class="notice_img_title d-flex align-items-center">
+                        <div class="notice-img mr-3">
+                            <img src="https://demo.ovatheme.com/egovt/wp-content/uploads/2020/08/1.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="notice_title">
+                            <h4>भेरोसिल खोप कार्यक्रम संचालन नहुने भएको ललितपुर महानगरपालिकाको सूचना</h4>
+                        </div>
+                        <div class="btn_white mt-3">
+                            <a href="notice-detail.php">थप हेर्नुहोस्</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<?php include 'testimonial_panal.php'; ?>
+
+
+<?php include 'footer.php'; ?>
